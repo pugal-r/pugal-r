@@ -27,10 +27,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Pugazhendhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pugal-r&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect with me
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: (https://www.linkedin.com/in/pugazhendhi-r-5b871a216/)
