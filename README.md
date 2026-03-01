@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pugazhendhi</h1>
+<h3 align="center">Aspiring Software Developer | Python | SQL | Web Developer</h3>
 
-<!--
-**pugal-r/pugal-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Recent Computer Science Graduate  
+💻 Skilled in Python, SQL, HTML, CSS, JavaScript  
+🌱 Currently learning Full Stack Development  
+🚀 Passionate about building real-world projects  
+📫 Open to Internship and Entry-Level Opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📌 Projects
+- Portfolio Website
+- Python Practice Programs
+- Web Technology Projects
+
+---
+
+## 📊 GitHub Stats
+![Pugazhendhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pugal-r&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: Add your LinkedIn link here
